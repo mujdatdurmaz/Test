@@ -10,5 +10,6 @@ namespace Test
     {
         public int MyProperty { get; set; }
         public int test { get; set; }
+        public int test2 { get; set; }
     }
 }
